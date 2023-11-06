@@ -4,8 +4,8 @@
 <p align="center">I'm fascinated about technology. <br><br> I'm currently studying a lot about the Flutter Framework. I'm <strong>very hungry for knowledge</strong> and i use it to create high-quality solutions. <br> Today, I'm a <strong>front-end low-level developer</strong> focused on mobile development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriquesimon&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriquesimon&theme=react&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=react&layout=compact" />
  </div>
  
  &nbsp;
