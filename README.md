@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/henriquesimon/henriquesimon/blob/main/header-profile.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I'm fascinated about technology. <br><br> I'm currently studying a lot about the Flutter Framework. I'm <strong>very hungry for knowledge</strong> and i use it to create high-quality solutions. <br> Today, I'm a <strong>front-end low-level developer</strong> focused on mobile development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriquesimon&theme=radical&mode=weekly" />
@@ -13,35 +13,31 @@
 
 
 
-## My Skills | Minhas Habilidades
+## My Skills 
 
-#### Main Stack | Stack Principal:
+#### Main Stack:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack | Stack Secundária:
+#### Secondary Stack :
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Studying in this moment | Estudando no momento:
+#### Studying in this moment:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-#### Databases | Bancos de dados:
-
-#### Workstation Tools | Ferramentas de Trabalho:
+#### Workstation Tools:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Windows10](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
 
-## Contacts | Contato:
+## Contacts:
 
 <div> 
  <a href="https://www.instagram.com/eusimon17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -52,4 +48,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E0DF&height=120&section=footer"/>
