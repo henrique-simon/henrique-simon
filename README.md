@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na FADERGS.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FADERGS.
 - 🌱 Aprendendo mais sobre desenvolvimento front-end.
 
 ## Minhas Skills
