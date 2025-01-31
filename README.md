@@ -38,8 +38,9 @@
 
 <br/>
 
-<div  align="left" style="margin-bottom:100px, margin-top:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=react&layout=compact" />
+<div align="left" style="margin-bottom:100px, margin-top:100px">
+<img width=40% height=300px src="https://github-readme-stats.vercel.app/api?username=henriquesimon&theme=dracula&show_icons=true" />
+<img width=40% height=300px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=react&layout=compact" />
  </div>
 
 ## Onde me encontrar
