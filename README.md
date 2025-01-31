@@ -39,10 +39,6 @@
 
 <br/>
 
-<a href="https://github.com/henriquesimon" title="Perfil do Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquesimon&theme=dracula&show_icons=true" />
-</a>
-
 <div  align="left" style="margin-bottom:100px, margin-top:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriquesimon&theme=react&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henriquesimon&show_icons=true&theme=react&layout=compact" />
